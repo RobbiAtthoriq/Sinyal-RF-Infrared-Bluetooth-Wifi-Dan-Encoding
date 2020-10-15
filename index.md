@@ -12,7 +12,7 @@ Radio Frekuensi mempunyai 2 perangkat elektronik untuk mengirimkan sinyal gelomb
 
 ## Infrared
 
-![Image](infra.jpg)
+![Image](infra_PNG)
 
  *Infrared* atau yang lazim dikenal dengan infra merah merupakan sinar elektromagnetik yang memiliki panjang gelombang lebih dari cahaya yang terlihat, yakni antara 700 nm dan 1 mm. Sinar infrared adalah cahaya yang tidak terlihat atau tak tertangkap mata. Apabila dilihat dengan menggunakan spektroskop cahaya maka radiasi dari sinar infrared akan terlihat pada spektrum elektromagnet dengan panjang gelombang yang berada di atas panjang gelombang cahaya merah.
 
