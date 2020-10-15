@@ -8,11 +8,11 @@ Amplitudo mengindikasikan kekuatan sinyal dan ukuran yang biasanya berupa energi
 
 Radio Frekuensi mempunyai 2 perangkat elektronik untuk mengirimkan sinyal gelombang elektromagnetik yang terdapat pada perangkat transmitter dan kemudian untuk menerima sinyal gelombang elektromagnetik tersebut yang terdapat pada perangkat receiver. 
 
-![Image](RF.jpg)
+![Image](RF_PNG.jpg)
 
 ## Infrared
 
-![Image](infra_PNG)
+![Image](infra_PNG.jpg)
 
  *Infrared* atau yang lazim dikenal dengan infra merah merupakan sinar elektromagnetik yang memiliki panjang gelombang lebih dari cahaya yang terlihat, yakni antara 700 nm dan 1 mm. Sinar infrared adalah cahaya yang tidak terlihat atau tak tertangkap mata. Apabila dilihat dengan menggunakan spektroskop cahaya maka radiasi dari sinar infrared akan terlihat pada spektrum elektromagnet dengan panjang gelombang yang berada di atas panjang gelombang cahaya merah.
 
@@ -30,7 +30,7 @@ Berikut ini adalah kelebihan dan kekurangan dari infrared:
 
 ## Bluetooth
 
-![Image](BL.png)
+![Image](BL_PNG.png)
 
 *Bluetooth* adalah teknologi yang memungkinkan dua perangkat yang kompatibel, seperti telepon dan PC untuk berkomunikasi tanpa kabel dan tidak memerlukan koneksi saluran yang terlihat. Teknologi ini memberikan perubahan yang signifikan terhadap peralatan elektronik yang kita gunakan.
 
@@ -40,7 +40,7 @@ Pada dasarnya bluetooth diciptakan bukan hanya menggantikan atau menghilangkan p
 
 ## Wi-Fi
 
-![Image](wifi.png)
+![Image](wifi_png.png)
 
 *WI-FI* adalah singkatan dari “Wireless Fidelity” yaitu suatu teknologi komunikasi nirkabel yang memanfaatkan gelombang radio untuk menghubungkan dua perangkat atau lebih untuk dapat saling bertukar informasi. WIFI atau sering ditulis dengan “Wi-Fi” ini pertama kali ditemukan oleh perusahaan NCR Corporation dan AT&T pada tahun 1991 untuk sistem kasir. Namun Saat ini, teknologi WIFI ini telah banyak digunakan pada perangkat mobile seperti Smartphone dan Laptop hingga ke perangkat elektronik lainnya seperti Televisi, DVD Player, Digital Kamera, Printer, Konsol Game dan bahkan lebih luas lagi hingga ke perangkat rumah tangga lainnya seperti Lampu, Kulkas dan Pengatur Suhu (AC).
 
@@ -59,7 +59,7 @@ Jenis jaringan lain yang dapat digunakan disebut jaringan Ad-Hoc. Jaringan ini t
 
 ## Encoding
 
-![Image](coding.jpg)
+![Image](coding_PNG.jpg)
 
 Encoding adalah orang yang mengembangkan dan mengirim pesan. Seperti ditunjukkan pembuat enkode harus menentukan bagaimana pesan akan diterima oleh audiens, dan membuat penyesuaian sehingga pesan diterima dengan cara yang mereka inginkan diterima.
 
